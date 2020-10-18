@@ -1,4 +1,4 @@
-//Package luhner is an implementation of the Luhn mod N algorithm (https://wikipedia.com/wiki/Luhn_mod_N).
+//Package luhner is an implementation of the Luhn mod N algorithm (https://wikipedia.com/wiki/Luhn_mod_N_algorithm).
 package luhner
 
 import (
