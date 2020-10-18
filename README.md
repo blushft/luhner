@@ -1,4 +1,4 @@
-pp<!-- Shelds -->
+<!-- Shelds -->
 [![Go Report Card][go-reportcard-sheild]][go-reportcard-url]
 ![Go][go-status-url]
 [![go.dev reference][godoc-shield]][godoc-url]
