@@ -10,7 +10,7 @@
 <br/>
 <p align="center">
     <a href="https://github.com/blushft/Luhmer">
-     <h2 align="center">Luhmer</h2>
+     <h2 align="center">Luhner</h2>
     </a> 
     <p align="center">
         Generate and verify identifiers algorithmically
